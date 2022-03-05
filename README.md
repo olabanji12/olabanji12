@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olabanji Osifowokan
-- 👀 I’m interested in Java backend development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Java backend projects
+- 👀 I’m interested in Java backend development and android development.
+- 🌱 I’m currently learning Data Structures and Algorithms and AWS.
+- 💞️ I’m looking to collaborate on Java backend projects or android development.
 - 📫 How to reach me olabanjiosifowokan@gmail.com
 
 <!---
